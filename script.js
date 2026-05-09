@@ -291,7 +291,7 @@ tabBtns.forEach(btn => {
 // Initialize EmailJS
 (function () {
 
-  emailjs.init('service_v9wb4jt'); // TODO: Replace 'YOUR_PUBLIC_KEY' with your actual EmailJS Public Key
+  emailjs.init('EfHj2BO4Xcsb6dTgk'); // TODO: Replace 'YOUR_PUBLIC_KEY' with your actual EmailJS Public Key
 
 })();
 
